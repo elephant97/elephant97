@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=gradle.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi develropers 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elephant0908@gmail.com)](mailto:elephant0908@gmail.com)
 <br>
 
 ### Languges
