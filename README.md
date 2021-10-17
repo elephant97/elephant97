@@ -1,11 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=gradle.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi develropers 👋
 <br>
-###Languges
+
+### Languges
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <br>
-###databases
+### databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
