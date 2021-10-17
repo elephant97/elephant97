@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=waze.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=gradle.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi develropers 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elephant97&show_icons=true&theme=radical)
