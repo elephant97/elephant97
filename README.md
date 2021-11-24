@@ -13,8 +13,7 @@
 
 <br>
 
-### OS
-![Windows](https://user-images.githubusercontent.com/82919411/143245400-0f5573a3-d158-4a7a-8ef4-480d8e80febd.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
 <br>
@@ -31,9 +30,7 @@
 **elephant97/elephant97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
 Here are some ideas to get you started:
