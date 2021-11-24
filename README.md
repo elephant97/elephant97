@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=smpark%20githun&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=smpark%20githunr&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=smpark%20Github&fontSize=90" />
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=gradle.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
