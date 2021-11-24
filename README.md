@@ -22,7 +22,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-
+<br>
 
 ## Preview sumin's Github😄
 <br>
