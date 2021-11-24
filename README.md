@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#E8D9FF&height=200&section=header&text="SMPARK%30GITHUB"&fontColor=878787&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8D9FF&height=200&section=header&text="SMPARK%30GITHUB"&fontColor=0:878787&fontSize=30)
 
 
 
