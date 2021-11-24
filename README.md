@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elephant0908@gmail.com)](mailto:elephant0908@gmail.com)
 <br>
 
-##### Skills⚡
+## Skills⚡
 
 <br>
 
