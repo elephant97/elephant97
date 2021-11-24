@@ -13,6 +13,12 @@
 
 <br>
 
+### OS
+![Windows](https://user-images.githubusercontent.com/82919411/143245400-0f5573a3-d158-4a7a-8ef4-480d8e80febd.png)
+
+
+<br>
+
 ### databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
