@@ -3,13 +3,11 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felephant97&count_bg=%23495BFF&title_bg=%23512EE5&icon=gradle.svg&icon_color=%23FFFFF9&title=sumin&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi develropers 👋
+### How to contact 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elephant0908@gmail.com)](mailto:elephant0908@gmail.com)
 <br>
 
 ## Skills⚡
-
-<br>
 
 ### Languges
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +23,8 @@
 
 
 
+
+## Preview sumin's Github😄
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephant97&layout=compact&theme=tokyonight)
