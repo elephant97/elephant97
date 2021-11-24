@@ -7,14 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elephant0908@gmail.com)](mailto:elephant0908@gmail.com)
 <br>
 
-### Languges
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
+##### Skills⚡
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephant97&layout=compact&theme=tokyonight)
-
+### Languges
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
 
 <br>
 
@@ -23,6 +22,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephant97&layout=compact&theme=tokyonight)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elephant97&show_icons=true&theme=radical)
