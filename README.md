@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
-![header](https://capsule-render.vercel.app/api?type=waveing&color=random&height=300&section=header&text=smpark%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=smpark%20github&fontSize=50)
 
 
 
