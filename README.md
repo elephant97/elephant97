@@ -10,8 +10,9 @@
 ## Skills⚡
 
 ### Languges
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <img alt="Java" src ="https://img.shields.io/badge/Java-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 <br>
 
